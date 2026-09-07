@@ -2,12 +2,10 @@
  *displays the low, mid, high and the search direction>
 Programmed by: <MARK JOEL DOMINGUITO> <BSIT> <48079> <DATA STRUCTURES AND ALGORITHM>
 Last Modified: <09-07-2026>
-Version: <version 2.0>
+Version: <version 1.2>
 [Acknowledgements: <geeksforgeeks.com, w3schools.com , Claude(Anthropic)and asked for low, high and mid logic > 
 to our cherished DSA Instructor Maam Pauline Rivas :3]
 */
-
-
 
 import java.util.Scanner;
 import java.util.Arrays;
