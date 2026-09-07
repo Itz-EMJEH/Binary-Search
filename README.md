@@ -7,10 +7,14 @@ Java
 javac Binary_search.java
 java Binary_search
 # Sample input and output
-Number of Elements: 7
+Number of Elements: 7  
+```
 Element 1: 40
+```
 Element 2: 10
+```
 Element 3: 70
+```
 Element 4: 20
 Element 5: 50
 Element 6: 30
