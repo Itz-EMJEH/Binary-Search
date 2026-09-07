@@ -4,8 +4,10 @@ This program is a binary search that accepts user input for the array size and e
 # Programming Language
 Java
 # How to compile and run
+```
 javac Binary_search.java
 java Binary_search
+```
 # Sample input and output
 ```
 Number of Elements: 7  
